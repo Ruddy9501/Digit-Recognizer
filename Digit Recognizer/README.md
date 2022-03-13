@@ -2,7 +2,7 @@
 
 <A href="https://www.kaggle.com/c/digit-recognizer/overview">Digit-Recognizer</A>
 
-<img src="img\digitrecognizer.jpg" width=100% height=200>
+<img src="img\images.gng" width=400 height=200>
 
 **Competition Description**
 
