@@ -1,8 +1,8 @@
-# Digit-Recognizer
+# <p align="center"><A href="https://www.kaggle.com/c/digit-recognizer/overview">Digit-Recognizer</A></p>
 
-<A href="https://www.kaggle.com/c/digit-recognizer/overview">Digit-Recognizer</A>
-
-<img src="img\images.gng" width=400 height=200>
+<p align="center">
+  <img src="img\images.png" width=100% height=auto>
+</p>
 
 **Competition Description**
 
