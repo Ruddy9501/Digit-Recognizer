@@ -1,7 +1,7 @@
 # <p align="center"><A href="https://www.kaggle.com/c/digit-recognizer/overview">Digit-Recognizer</A></p>
 
 <p align="center">
-  <img src="img\numbers2.jpg" width=100% height=auto>
+  <img src="img\numbers2.png" width=100% height=auto>
 </p>
 
 ## **Competition Description**
